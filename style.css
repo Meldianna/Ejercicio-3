@@ -1,0 +1,61 @@
+/* Garantizar que todo el doc disponga de la misma familia tipográfica */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1,h2,h3{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+/*Estilos por clases */
+
+.blue{
+    font-size: 30px;
+    color: rgb(16, 84, 230);
+}
+
+.naranja{
+    color: rgb(238, 130, 14);
+    font-size: 20px;
+}
+
+/*Estilos de <p>  */
+#green{
+    color: rgb(137, 214, 21);
+}
+
+#beige{
+    color: rgb(205, 172, 146);
+}
+#lila{
+    color: rgb(189, 181, 232);
+    
+}
+.rojo{
+    color: red;
+    margin: 0px;
+}
+.fucsia{
+    color: magenta;
+    margin: 0px;
+}
+
+/*Estilos de <span> */
+.rojo span{
+    color: rgb(161, 26, 26);
+}
+
+#green span{
+    color: rgb(32, 156, 32);
+}
+
+#beige span{
+    color: brown;
+}
+
+#lila span{
+    color: darkslateblue;
+}
+.fucsia span{
+    color: darkmagenta;
+}
