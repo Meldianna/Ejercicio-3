@@ -24,9 +24,6 @@ h1,h2,h3{
     color: rgb(137, 214, 21);
 }
 
-#beige{
-    color: rgb(205, 172, 146);
-}
 #lila{
     color: rgb(189, 181, 232);
     
@@ -37,6 +34,10 @@ h1,h2,h3{
 }
 .fucsia{
     color: magenta;
+    margin: 0px;
+}
+.beige{
+    color: rgb(205, 172, 146);
     margin: 0px;
 }
 
